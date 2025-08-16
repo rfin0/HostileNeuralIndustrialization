@@ -12,4 +12,4 @@ navigation:
 
 ## Введение
 
-HNI закрывает одну из слепых зон Modern Industrialization - фарм мобов. Используя механику Hostile Neural Networks, вы легко полностью автоматизируете добычу дропа.
+HNI закрывает одну из слепых зон Modern Industrialization - фарм мобов. Используя механику Hostile Neural Networks, вы сможете легко полностью автоматизировать добычу дропа с мобов.
